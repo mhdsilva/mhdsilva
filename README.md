@@ -26,36 +26,30 @@ Sou um profissional apaixonado por impulsionar o crescimento de negócios e tran
 ## 💼 Experiência Profissional
 
 ### **Software Engineer | BeUni - Plataforma de Brindes Corporativos**
-*_Fevereiro de 2024 - Presente | São Carlos, São Paulo (Presencial)_*
+Fevereiro de 2024 - Presente | São Carlos, São Paulo (Presencial)
 
 ### **Software Engineer | Videomatik**
-*__Novembro de 2023 - Fevereiro de 2024 | São Carlos, São Paulo (Híbrido)_*
+Novembro de 2023 - Fevereiro de 2024 | São Carlos, São Paulo (Híbrido)
 - Atuei em todas as áreas da engenharia de software, desde a análise de requisitos, desenvolvimento, análise de produto, gerenciamento de projetos e garantia de qualidade.
 
 ### **Webmaster (Estágio) | The Brooklyn Brothers**
-*__Agosto de 2022 - Outubro de 2023 | Florianópolis, Santa Catarina (Remoto)_*
+Agosto de 2022 - Outubro de 2023 | Florianópolis, Santa Catarina (Remoto)
 
 ---
 
 ## 🎓 Formação Acadêmica
 
 ### **Bacharelado em Sistemas de Informação**
-*__Universidade de São Paulo (USP)__ | Março de 2022 - Dezembro de 2025*
+*Universidade de São Paulo (USP) | Março de 2022 - Dezembro de 2025*
 
 ---
 
 ## ✨ Trabalho Voluntário
 
 ### **Líder Geral | LESC - Liga de Empreendedorismo de São Carlos**
-*__Junho de 2023 - Presente_*
+*Junho de 2023 - Presente*
 - Liderança em projetos e iniciativas voltadas para ciência e tecnologia no ambiente de empreendedorismo.
 
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_DO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsilva&layout=compact&langs_count=7&theme=dracula)](https://github.com/mhdsilva/github-readme-stats)
 
 ---
 
