@@ -69,23 +69,12 @@ Plugin para gravação de áudio em background em aplicações Capacitor.
 
 `Java` `Capacitor` `Mobile`
 
-### [Library Manager](https://github.com/mhdsilva/library-manager)
-
-Aplicação para gerenciamento de biblioteca, com foco em organização de acervo e experiência de uso.
-
-`TypeScript` `Application Development`
-
-### [Projetos Simões](https://github.com/mhdsilva/projetos-simoes)
-
-Projeto acadêmico desenvolvido em Assembly.
-
-`Assembly` `Computer Science`
-
 ---
 
 ## 💼 Experiência
 
 - **Tech Lead — Humanizadas** · Jun. 2025 – presente
+- **Co-Founder — Kairoo Tech** · Nov. 2025 – presente
 - **Software Engineer — BeUni** · Fev. 2024 – Jun. 2025
 - **Software Engineer — Videomatik** · Nov. 2023 – Fev. 2024
 - **Webmaster — The Brooklyn Brothers** · Ago. 2022 – Out. 2023
@@ -103,12 +92,14 @@ Minha atuação combina liderança técnica, arquitetura, desenvolvimento full-s
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhdsilva&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub de Matheus Silva" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsilva&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Linguagens mais usadas por Matheus Silva" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhdsilva&theme=transparent" alt="Estatísticas públicas do GitHub de Matheus Silva" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhdsilva&theme=transparent" alt="Linguagens dos repositórios públicos de Matheus Silva" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhdsilva&hide_border=true&theme=transparent" alt="GitHub streak de Matheus Silva" />
+  <img src="https://img.shields.io/github/public-repos/mhdsilva?label=Reposit%C3%B3rios%20p%C3%BAblicos" alt="Repositórios públicos" />
+  <img src="https://img.shields.io/github/followers/mhdsilva?label=Seguidores" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/mhdsilva?affiliations=OWNER&label=Estrelas" alt="Estrelas nos repositórios" />
 </p>
 
 ---
