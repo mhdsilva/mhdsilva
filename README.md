@@ -57,17 +57,41 @@ Tenho explorado e construído soluções com modelos de linguagem, agentes e sis
 
 ## 🚀 Projetos públicos em destaque
 
+### [MediaVax](https://github.com/mhdsilva/mediavax)
+
+Aplicação educacional que usa IA e simulações interativas para ensinar alfabetização midiática e ajudar usuários a identificar técnicas de desinformação.
+
+`TypeScript` `React` `Applied AI` `Media Literacy`
+
 ### [Claude Daily](https://github.com/mhdsilva/claude-daily)
 
-Dashboard para acompanhar sessões do Claude Code, com resumo de atividades, tempo investido e custos.
+CLI para gerar resumos diários de sessões do Claude Code, organizando atividades, tempo investido e custos.
 
 `Python` `Data Analysis` `Developer Tools`
 
+### [Meta-Developer Portfolio](https://github.com/mhdsilva/meta-portifolio)
+
+Portfólio interativo que simula uma sessão de pair programming com IA enquanto a interface é construída em tempo real.
+
+`JavaScript` `React` `Interactive Experience`
+
+### [Vale do Matheus](https://github.com/mhdsilva/imatheus)
+
+Portfólio em formato de uma fazenda 2D interativa, com pixel art gerada por código.
+
+`TypeScript` `Creative Coding` `Interactive Web`
+
 ### [Capacitor Background Recorder](https://github.com/mhdsilva/capacitor-background-recorder)
 
-Plugin para gravação de áudio em background em aplicações Capacitor.
+Plugin para gravação contínua de áudio em background em aplicações Capacitor no Android.
 
 `Java` `Capacitor` `Mobile`
+
+### [DiplomaSBT](https://github.com/mhdsilva/DiplomaSBT)
+
+Plataforma acadêmica para emissão de diplomas digitais como Soulbound Tokens na rede Ethereum.
+
+`Python` `Blockchain` `Smart Contracts`
 
 ---
 
